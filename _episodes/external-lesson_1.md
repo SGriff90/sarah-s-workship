@@ -1,5 +1,5 @@
 ---
-title: External Lesson
+title: What makes a good preregistration?
 teaching: null
 exercises: 20
 duration: null
@@ -15,16 +15,11 @@ is-break: null
 ukrn_wb_rules:
   - allow-multiple
 day: 1
-order: 800000
+order: 150000
 missingDependencies: []
 dependencies: []
 originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 
 ---
-> ## FigShare tutorial `20 min`
-> For this lesson we are going to be following through the FigShare tutorial:
-> <a href="https://help.figshare.com/article/how-to-upload-and-publish-your-data" target="_blank">https://help.figshare.com/article/how-to-upload-and-publish-your-data</a>
->
-> The link will open in a new tab.
-> When you have completed the tutorial, you can close the tab.
-{: .challenge}
+> ## What makes a good preregistration? `20 min`
+In this lesson we are going to look at some examples of preregistrations.
