@@ -1,5 +1,5 @@
 ---
-title: "Prereg: Introducing the concept - the ‘what’ and ‘why’ of preregistration"
+title: The ‘what’ and ‘why’ of preregistration
 teaching: 15
 exercises: null
 duration: null
