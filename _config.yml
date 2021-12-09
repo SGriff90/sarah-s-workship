@@ -1,17 +1,20 @@
 ---
-workshop_id: 
+workshop_id: SG20211209PR_01
 topic: preregistration
-title: 
-instructors: []
-instructor_emails: []
+title: LangCog ECR Preregistration Workshop
+instructors:
+  - Sarah Griffiths
+instructor_emails:
+  - sarah.griffiths@ucl.ac.uk
 helpers: []
 start_times:
   - 09|00
-setup_files: []
+setup_files:
+  - git
 language: en
-venue: null
+venue: "Language and Cognition, PALS UCL "
 address: null
-country: null
+country: GB
 latitude: null
 longitude: null
 start_date: null
