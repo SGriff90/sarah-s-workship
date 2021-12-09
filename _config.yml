@@ -8,7 +8,7 @@ instructor_emails:
   - sarah.griffiths@ucl.ac.uk
 helpers: []
 start_times:
-  - 09|00
+  - 13|00
 setup_files:
   - git
 language: en
