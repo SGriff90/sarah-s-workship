@@ -1,7 +1,7 @@
 ---
 title: "Prereg: Introducing the concept - the ‘what’ and ‘why’ of preregistration"
 teaching: 15
-exercises: 15
+exercises: null
 duration: null
 summary: An introduction to what preregistration entails, the benefits of
   preregistration, and discussion of any concerns.
